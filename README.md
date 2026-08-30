@@ -47,6 +47,7 @@ Pudhuvai care is a covid application for Puducherry made by developers of DSC_PE
     <td align="center"><a href="https://github.com/aswini17"><img src="https://avatars.githubusercontent.com/u/42395613?v=4" width="100px;" alt=""/><br /><sub><b>
 Aswini S</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/ayushved78"><img src="https://avatars.githubusercontent.com/u/62042919?v=4" width="100px;" alt=""/><br /><sub><b>Ayush Singh</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/labiba2611"><img src="https://avatars.githubusercontent.com/u/221141187?v=4" width="100px;" alt=""/><br /><sub><b>Labiba</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/i-prasanna"><img src="https://avatars.githubusercontent.com/u/79408607?v=4" width="100px;" alt=""/><br /><sub><b>i-prasanna</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/monica2708"><img src="https://avatars.githubusercontent.com/u/79393546?v=4" width="100px;" alt=""/><br /><sub><b>Monica Emmanuel</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/princesanjivy"><img src="https://avatars.githubusercontent.com/u/34624548?v=4" width="100px;" alt=""/><br /><sub><b>Prince Sanjivy</b></sub></a><br /></td>
